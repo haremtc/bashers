@@ -2,6 +2,6 @@
 yow
 ## New Title
 copyright
-## Pointer
+## Adding title for stash
 	hello there
 ## Another change
